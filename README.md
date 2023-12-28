@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Mykola, a passionate backend developer who is on a never-ending journey through the code realm. I first started working with the world of PHP, and then began to explore different programming languages in a fascinating way. What I'm doing now is learning the formidable and powerful Rust!</p>
+<p align="left">A passionate backend developer who is on a never-ending journey through the code realm. I first started working with the world of PHP, and then began to explore different programming languages in a fascinating way. What I'm doing now is learning the formidable and powerful Rust!</p>
 
 ###
 
