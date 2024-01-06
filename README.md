@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">A passionate backend developer who is on a never-ending journey through the code realm. I first started working with the world of PHP, and then began to explore different programming languages in a fascinating way. What I'm doing now is learning the formidable and powerful Rust!</p>
+<p align="left">I'm Mykola, a passionate backend developer who is on a never-ending journey through the code realm. I first started working with the world of PHP, and then began to explore different programming languages in a fascinating way. What I'm doing now is learning the formidable and powerful Rust!</p>
 
 ###
 
@@ -42,10 +42,9 @@
 
 <img src="https://raw.githubusercontent.com/hiisync/hiisync/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hiisync.hiisync&"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiisync&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiisync&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
