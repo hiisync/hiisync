@@ -1,21 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Mikola, and I'm a Backend Developer from Ukraine</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I'm Mykola, a passionate backend developer who is on a never-ending journey through the code realm. I first started working with the world of PHP, and then began to explore different programming languages in a fascinating way. What I'm doing now is learning the formidable and powerful Rust!</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
 ###
 
 <div align="left">
